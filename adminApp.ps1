@@ -1,0 +1,1 @@
+Powershell.exe -Command "Start-Process `Powershell.exe` -Verb runAs"
